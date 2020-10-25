@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, I'm David
+- :snake: Python Developer
+- :toolbox: Data Engineer
+- :man_student: CS Student
 
-<!--
-**DavidKatz-il/DavidKatz-il** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :writing_hand: Articles:
+- [Implementing a graph network pipeline with Dagster](https://dev.to/sephib/implementing-a-graph-network-pipeline-with-dagster-3i3a)
+- [Simple Pipeline Monitoring Dashboard](https://dev.to/sephib/simple-pipeline-monitoring-dashboard-386p)
+   
+   
+### :stars: GitHub Stats:
+![David github stats](https://github-readme-stats.vercel.app/api?username=DavidKatz-il&count_private=true&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&hide_title=true)
+   
+   
+### :mailbox: How to reach me:
+[<img src="https://img.icons8.com/color/gmail" width="3%"/>](mailto:katzsanz@gmail.com)
+[<img src="https://img.icons8.com/color/linkedin" width="3%"/>](https://www.linkedin.com/in/DavidKatz-il/)
+ 
