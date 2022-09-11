@@ -1,7 +1,7 @@
 ## Hi, I'm David
 - :snake: Python Developer
 - :toolbox: Data Engineer
-- :man_student: CS Student
+- :man_student: BS, Computer Science
 
 ### :writing_hand: Articles:
 - [Implementing a graph network pipeline with Dagster](https://dev.to/sephib/implementing-a-graph-network-pipeline-with-dagster-3i3a)
