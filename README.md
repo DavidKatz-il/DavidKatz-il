@@ -35,3 +35,5 @@ ________________________________________________________________________________
 - [Fix bug - Invalid type for variable for execution_timeout and dag_run_timeout](https://github.com/apache/airflow-client-python/pull/53)
 ### [apache/beam](https://github.com/apache/beam):
 - [Add support for using builtins typing](https://github.com/apache/beam/pull/25054)
+### [montara-io/lucia-data](https://github.com/montara-io/lucia-data):
+- [refactor spark-processor service](https://github.com/montara-io/lucia-data/pull/18)
