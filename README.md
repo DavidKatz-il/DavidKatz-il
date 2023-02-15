@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________
 ## My Contributions to Open Source Projects
-### [dagster-io/dagster](https://github.com/dagster-io/dagster):
+### <img src="https://avatars.githubusercontent.com/u/40032576" width="20"/> [dagster](https://github.com/dagster-io/dagster):
 - [Supporting dask clusters](https://github.com/dagster-io/dagster/pull/2498)
 - [Add options to spark_df_output_schema](https://github.com/dagster-io/dagster/pull/2616)
 - [Add Dask-Jobqueue clusters](https://github.com/dagster-io/dagster/pull/2668)
@@ -27,21 +27,21 @@ ________________________________________________________________________________
 - [Add dask dataframe](https://github.com/dagster-io/dagster/pull/2758)
 - [Add pyspark dataframe_loader](https://github.com/dagster-io/dagster/pull/2790)
 - [Move dict_without_keys to dagster.utils](https://github.com/dagster-io/dagster/pull/2837)
-### [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec):
+### <img src="https://avatars.githubusercontent.com/u/92825505" width="20"/> [fsspec](https://github.com/fsspec/filesystem_spec):
 - [Fix tests for windows](https://github.com/fsspec/filesystem_spec/pull/441)
-### [pdpipe/pdpipe](https://github.com/pdpipe/pdpipe):
+### <img src="https://avatars.githubusercontent.com/u/59084230" width="20"/> [pdpipe](https://github.com/pdpipe/pdpipe):
 - [Add stage name](https://github.com/pdpipe/pdpipe/pull/39)
 - [Remove python3.5](https://github.com/pdpipe/pdpipe/pull/42)
 - [Add black code style](https://github.com/pdpipe/pdpipe/pull/114)
-### [dask/dask](https://github.com/dask/dask):
+### <img src="https://avatars.githubusercontent.com/u/17131925" width="20"/> [dask](https://github.com/dask/dask):
 - [Fix #6775](https://github.com/dask/dask/pull/6809)
-### [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn):
+### <img src="https://avatars.githubusercontent.com/u/365630" width="20"/> [scikit-learn](https://github.com/scikit-learn/scikit-learn):
 - [change stats.mode to collections.Counter, for better performance.](https://github.com/scikit-learn/scikit-learn/pull/18987)
-### [apache/airflow](https://github.com/apache/airflow):
+### <img src="https://github.com/apache/airflow/blob/main/airflow/www/static/pin_40.png" width="20"/> [airflow](https://github.com/apache/airflow):
 - [The AirflowDagCycleException message should include the dag_id](https://github.com/apache/airflow/pull/26204)
-### [apache/airflow-client-python](https://github.com/apache/airflow-client-python):
+### <img src="https://github.com/apache/airflow/blob/main/airflow/www/static/pin_40.png" width="20"/> [airflow-client-python](https://github.com/apache/airflow-client-python):
 - [Fix bug - Invalid type for variable for execution_timeout and dag_run_timeout](https://github.com/apache/airflow-client-python/pull/53)
-### [apache/beam](https://github.com/apache/beam):
+### <img src="https://github.com/apache/beam/blob/master/website/www/site/static/images/beam_logo_s.png" width="20"/> [beam](https://github.com/apache/beam):
 - [Add support for using builtins typing](https://github.com/apache/beam/pull/25054)
-### [montara-io/lucia-data](https://github.com/montara-io/lucia-data):
+### <img src="https://avatars.githubusercontent.com/u/66210681" width="20"/> [lucia-data](https://github.com/montara-io/lucia-data):
 - [refactor spark-processor service](https://github.com/montara-io/lucia-data/pull/18)
