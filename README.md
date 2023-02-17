@@ -1,14 +1,15 @@
-## Hi, I'm David
+## :wave: Hi, I'm David
 - :snake: Python Developer
 - :toolbox: Big Data Engineer
 - :man_student: BS, Computer Science
+__________________________________________________________________________________________________________
 
-   
 ## :mailbox: How to reach me:
 [<img src="https://img.icons8.com/color/gmail" width="3%"/>](mailto:davidkatzil@icloud.com)
 [<img src="https://img.icons8.com/color/linkedin" width="3%"/>](https://www.linkedin.com/in/DavidKatz-il/)
 __________________________________________________________________________________________________________
-## My Projects
+
+## :man_technologist: My Projects
 | Project | Description |
 | --------- | --------- |
 | [social-relationships](https://github.com/DavidKatz-il/social-relationships) | A platform for teachers to monitor and analyze student social relationships, providing targeted support and fostering positive, inclusive class culture. |
@@ -16,9 +17,9 @@ ________________________________________________________________________________
 | [flight-simulator](https://github.com/DavidKatz-il/flight-simulator) | A project of Advanced Software Development course. |
 | [kaggle](https://github.com/DavidKatz-il/kaggle) | My Kaggle competitions |
 | [TeleZoom](https://github.com/DavidKatz-il/TeleZoom) | Telegram Bot - Downloading recording videos from zoom |
-
 __________________________________________________________________________________________________________
-## My Contributions to Open Source Projects
+
+## :star: My Contributions to Open Source Projects
 ### <img src="https://avatars.githubusercontent.com/u/40032576" width="20"/> [dagster](https://github.com/dagster-io/dagster):
 - [Supporting dask clusters](https://github.com/dagster-io/dagster/pull/2498)
 - [Add options to spark_df_output_schema](https://github.com/dagster-io/dagster/pull/2616)
