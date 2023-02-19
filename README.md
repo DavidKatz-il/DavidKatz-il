@@ -19,6 +19,14 @@ ________________________________________________________________________________
 | [TeleZoom](https://github.com/DavidKatz-il/TeleZoom) | Telegram Bot - Downloading recording videos from zoom |
 __________________________________________________________________________________________________________
 
+## :memo: My Gists
+| Gist | Description |
+| --------- | --------- |
+| [airflow_client_api](https://gist.github.com/DavidKatz-il/e2caf17285f8ef2d4dd6e70beb8186b0) | Python API client for `airflow`. |
+| [database](https://gist.github.com/DavidKatz-il/03e6d9ef9938fa1e1a4a0000bc2adf5f) | Python wrapper around `sqlite` database. |
+
+__________________________________________________________________________________________________________
+
 ## :star: My Contributions to Open Source Projects
 ### <img src="https://avatars.githubusercontent.com/u/40032576" width="20"/> [dagster](https://github.com/dagster-io/dagster):
 - [Supporting dask clusters](https://github.com/dagster-io/dagster/pull/2498)
