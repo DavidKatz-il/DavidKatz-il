@@ -37,8 +37,8 @@ ________________________________________________________________________________
 - [Add pyspark dataframe_loader](https://github.com/dagster-io/dagster/pull/2790)
 - [Move dict_without_keys to dagster.utils](https://github.com/dagster-io/dagster/pull/2837)
 ### <img src="https://avatars.githubusercontent.com/u/92825505" width="20"/> [fsspec](https://github.com/fsspec/filesystem_spec):
-- [Fix tests for windows](https://github.com/fsspec/filesystem_spec/pull/441)
-[mv: no-op when paths are the same](https://github.com/fsspec/filesystem_spec/pull/1218)
+- [Fix tests for windows](https://github.com/fsspec/filesystem_spec/pull/441)   
+- [mv: no-op when paths are the same](https://github.com/fsspec/filesystem_spec/pull/1218)
 ### <img src="https://avatars.githubusercontent.com/u/59084230" width="20"/> [pdpipe](https://github.com/pdpipe/pdpipe):
 - [Add stage name](https://github.com/pdpipe/pdpipe/pull/39)
 - [Remove python3.5](https://github.com/pdpipe/pdpipe/pull/42)
