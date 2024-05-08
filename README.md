@@ -55,3 +55,5 @@ ________________________________________________________________________________
 - [Add support for using builtins typing](https://github.com/apache/beam/pull/25054)
 ### <img src="https://avatars.githubusercontent.com/u/66210681" width="20"/> [lucia-data](https://github.com/montara-io/lucia-data):
 - [refactor spark-processor service](https://github.com/montara-io/lucia-data/pull/18)
+### <img src="https://avatars.githubusercontent.com/u/2232217" width="20"/> [aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas):
+- [fix: Support json type in athena2pandas](https://github.com/aws/aws-sdk-pandas/pull/2806)
