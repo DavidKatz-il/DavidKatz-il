@@ -57,3 +57,5 @@ ________________________________________________________________________________
 - [refactor spark-processor service](https://github.com/montara-io/lucia-data/pull/18)
 ### <img src="https://avatars.githubusercontent.com/u/2232217" width="20"/> [aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas):
 - [fix: Support json type in athena2pandas](https://github.com/aws/aws-sdk-pandas/pull/2806)
+### <img src="https://avatars.githubusercontent.com/u/5997976" width="20"/> [plotly.py](https://github.com/plotly/plotly.py):
+- [Fix TypeError: When using orjson and serializing pandas.NA](https://github.com/plotly/plotly.py/pull/5040)
