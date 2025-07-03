@@ -47,9 +47,9 @@ ________________________________________________________________________________
 - [Fix #6775](https://github.com/dask/dask/pull/6809)
 ### <img src="https://avatars.githubusercontent.com/u/365630" width="20"/> [scikit-learn](https://github.com/scikit-learn/scikit-learn):
 - [change stats.mode to collections.Counter, for better performance.](https://github.com/scikit-learn/scikit-learn/pull/18987)
-### <img src="https://github.com/apache/airflow/blob/main/airflow/www/static/pin_40.png" width="20"/> [airflow](https://github.com/apache/airflow):
+### <img src="https://github.com/apache/airflow/blob/main/airflow-core/docs/img/logos/airflow_64x64_emoji_transparent.png" width="20"/> [airflow](https://github.com/apache/airflow):
 - [The AirflowDagCycleException message should include the dag_id](https://github.com/apache/airflow/pull/26204)
-### <img src="https://github.com/apache/airflow/blob/main/airflow/www/static/pin_40.png" width="20"/> [airflow-client-python](https://github.com/apache/airflow-client-python):
+### <img src="https://github.com/apache/airflow/blob/main/airflow-core/docs/img/logos/airflow_64x64_emoji_transparent.png" width="20"/> [airflow-client-python](https://github.com/apache/airflow-client-python):
 - [Fix bug - Invalid type for variable for execution_timeout and dag_run_timeout](https://github.com/apache/airflow-client-python/pull/53)
 ### <img src="https://github.com/apache/beam/blob/master/website/www/site/static/images/beam_logo_s.png" width="20"/> [beam](https://github.com/apache/beam):
 - [Add support for using builtins typing](https://github.com/apache/beam/pull/25054)
